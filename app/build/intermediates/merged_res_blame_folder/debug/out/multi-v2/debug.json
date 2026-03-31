@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.smartshoppingapp-merged_res-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\teaching\\4_kyrs\\Sofiia\\2\\SmartShoppingApp_ready\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "51",
+                        "endOffsets": "63"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endColumns": "51",
+                        "endOffsets": "147"
+                    }
+                },
+                {
+                    "source": "D:\\teaching\\4_kyrs\\Sofiia\\2\\SmartShoppingApp_ready\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "63",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "333"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "152",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "420"
+                    }
+                }
+            ]
+        }
+    ]
+}
